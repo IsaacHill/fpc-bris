@@ -1,0 +1,13 @@
+co-variant functors a  all things with map - the default 
+
+337
+
+
+
+:t bindParser (\c -> bindParser (\d -> valueParser (c:.d:.Nil)) character) character
+
+
+freenode irc
+
+cis 194 spring 2013
+
